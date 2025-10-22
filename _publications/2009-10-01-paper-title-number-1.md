@@ -6,5 +6,5 @@ Excerpt: 'Lens design & Machine learning'
 Date: 2023-09-29
 Journal: 'Scientific Reports'
 
-Pdf version: 'https://academicpages.github.io/files/Inverse design of optical lenses enabled by generative flow-based invertible neural networks.pdf'
+PDF: 'https://menglongluo.github.io/files/Inverse design of optical lenses enabled by generative flow-based invertible neural networks.pdf'
 ---
