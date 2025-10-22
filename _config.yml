@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Avatar.png"
-  name             : "Menglong Luo"
+  # name             : "Menglong Luo"
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "China"
