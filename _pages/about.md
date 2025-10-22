@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 Hi there,
-Welcome to my personal website. You can visit my information here.
+
+I am an AI-optics engineer.
 
 
 
