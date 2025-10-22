@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=9ZnuB-4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  # orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
 
   researchgate     : # URL
@@ -50,8 +50,7 @@ author:
   dribbble         : # Username
   github           : "https://github.com/menglongluo"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+ 
   # Social media
   artstation       : # Username
   facebook         : # Username
