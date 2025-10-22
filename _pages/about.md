@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Menglong Luo's Profile"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
