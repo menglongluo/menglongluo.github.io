@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1111"
+title: "Inverse design of optical lenses enabled by generative flow-based invertible neural networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
